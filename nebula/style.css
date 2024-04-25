@@ -1,0 +1,68 @@
+button.home {
+  font-size: 20px;
+  border-radius: 10px;
+  background-color: #ffffff;
+  color: #000000;
+  border-color: #000000;
+  border-width: 5px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  transition: all 0.1s; /* Smooth transition for hover effects */
+  cursor: pointer; /* Change cursor to pointer on hover */
+  position: absolute;
+  top: 50%;
+  left: 30%;
+  
+}
+
+button:hover {
+    background-color: #ffffff;
+    cursor: pointer;
+    transform: translateY(-5px);
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.9);
+  
+}
+label{
+  font-size: 20px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  color: #ffffff;
+  text-underline-position: below;
+  margin-top: 10px;
+}
+h1.home{
+  color: #fbc1eb;
+  font-family: 'Roboto', sans-serif;
+  margin-left: 600px;
+  font-size: 80px;
+  margin-top: 80px;
+  margin-bottom: 80px;
+  font-weight: bold;
+  left: 30%;
+  
+}
+p{
+  color: black;
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  margin-left: 500px;
+  left: 50%;
+  
+}              z1111
+h2{
+  color: red;
+}
+
+button.apps {
+font-size: 24px;
+padding: 50px 50px;
+background-size: cover;
+text-align: center;
+}
+
+h1{
+  left: 50%;
+button.apps {
+  display: flex;
+  justify-content: center;
+}
